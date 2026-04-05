@@ -104,7 +104,7 @@ pip install -r requirements.txt
 ```
 ---
 
-📈 Evaluation Metrics
+📈 Evaluation Metrics <br>
 Semantic Similarity Score <br>
 LLM-Based Structured Score <br>
 Keyword Match Percentage <br>
