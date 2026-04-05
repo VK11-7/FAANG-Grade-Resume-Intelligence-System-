@@ -51,28 +51,28 @@ The system provides **actionable insights, scoring breakdowns, and automated PDF
 
 ## 🏗️ System Architecture
 
-Resume + Job Description
-│
-▼
-Text Preprocessing
-│
-▼
-Embedding Generation (MiniLM)
-│
-▼
-Cosine Similarity Scoring
-│
-▼
-LLM Evaluation (Llama3)
-│
-▼
-Keyword Gap Analysis
-│
-▼
-Weighted Score Aggregation
-│
-▼
-Streamlit UI + PDF Report
+Resume + Job Description <br>
+│ <br>
+▼ <br>
+Text Preprocessing <br>
+│ <br>
+▼ <br>
+Embedding Generation (MiniLM) <br>
+│ <br>
+▼ <br>
+Cosine Similarity Scoring <br>
+│ <br>
+▼ <br>
+LLM Evaluation (Llama3) <br>
+│ <br>
+▼ <br>
+Keyword Gap Analysis <br>
+│ <br>
+▼ <br>
+Weighted Score Aggregation <br>
+│ <br>
+▼ <br>
+Streamlit UI + PDF Report <br>
 
 ---
 
@@ -90,7 +90,7 @@ Streamlit UI + PDF Report
 
 ## ⚙️ Installation
 
-bash:
+```bash:
 # Clone the repository
 git clone https://github.com/your-username/resume-intelligence-system.git
 cd resume-intelligence-system
@@ -101,14 +101,14 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ---
 
 📈 Evaluation Metrics
-Semantic Similarity Score
-LLM-Based Structured Score
-Keyword Match Percentage
-Final Weighted Score
+Semantic Similarity Score <br>
+LLM-Based Structured Score <br>
+Keyword Match Percentage <br>
+Final Weighted Score <br>
 
 ---
 
